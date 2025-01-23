@@ -5,3 +5,7 @@ These apps are made while I was learning Tkinter for Python. Anyone can use thes
 ## Packaging Information
 
 https://customtkinter.tomschimansky.com/documentation/packaging
+
+## Pictures
+
+![](./calculator/picture.png)
